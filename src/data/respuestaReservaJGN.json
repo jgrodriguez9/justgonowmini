@@ -1,0 +1,103 @@
+{
+	"reservationCode": "e5f2236b-78aa-426d-b764-008e474863e4",
+	"currency": "USD",
+	"language": "esp",
+	"total": 1,
+	"hotels": [
+	  {
+		"id": "test_hotel_do_not_book",
+		"paxes": {
+		  "adults": 2,
+		  "children": 0,
+		  "infant": 0,
+		  "junior": 0,
+		  "childrenAges": [
+			
+		  ],
+		  "total": 2
+		},
+		"checkin": "15-03-2021",
+		"source": "RateHawk",
+		"checkout": "17-03-2021",
+		"destination": "904",
+		"rooms": [
+		  {
+			"id": "h-6d590b7e-01b4-58ea-8c88-f18b7726a389",
+			"paxes": {
+			  "adults": 2,
+			  "children": 0,
+			  "infant": 0,
+			  "junior": 0,
+			  "childrenAges": [
+				
+			  ],
+			  "total": 2
+			},
+			"paxesInformation": [
+			  {
+				"type": "ADULT",
+				"name": "Alex",
+				"lastName": "Garcia",
+				"age": null,
+				"owner": null
+			  },
+			  {
+				"type": "ADULT",
+				"name": "Maricela",
+				"lastName": "Alfonso",
+				"age": null,
+				"owner": null
+			  }
+			],
+			"price": 1,
+			"roomType": "",
+			"planId": ""
+		  }
+		]
+	  }
+	],
+	"activities": [
+	  
+	],
+	"reference": "CMOM",
+	"client": {
+	  "id": null,
+	  "name": "Alex",
+	  "lastname": "Garcia",
+	  "email": "alex@gmail.com",
+	  "phoneType": null,
+	  "phone": {
+		"type": "HOME",
+		"number": "9986546547"
+	  },
+	  "country": "OT",
+	  "address": null,
+	  "city": null,
+	  "state": null,
+	  "zip": null,
+	  "hotel": {
+		"id": 2,
+		"name": "Test Hotel (Do Not Book)"
+	  }
+	},
+	"company": "JustGo",
+	"status": "CONFIRMED",
+	"source": null,
+	"creationDate": "08-01-2021 15:52",
+	"payment": {
+	  "currency": "USD",
+	  "amount": 1,
+	  "paymentType": "CREDIT_CARD",
+	  "source": "RateHawk",
+	  "creditCard": {
+		"type": {
+		  "name": "VI"
+		},
+		"number": "4111111111111111",
+		"securityCode": null,
+		"expireMonth": "01",
+		"expireYear": 2020,
+		"billing": null
+	  }
+	}
+  }

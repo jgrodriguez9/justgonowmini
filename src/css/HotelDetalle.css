@@ -1,0 +1,8 @@
+.text-detail-room{
+    padding: 4px 8px;
+    font-size: 1.25rem;
+    font-weight: 500;
+}
+.table-rates tr td{
+    vertical-align: middle;
+}

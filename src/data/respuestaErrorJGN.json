@@ -1,0 +1,7 @@
+{
+	"httpStatusCode": "INTERNAL_SERVER_ERROR",
+	"apiCode": "E_RESPONSE_INVALID",
+	"message": "ErrorApis error",
+	"infoUrl": "http://189.206.164.251:8080/swagger-ui.html#/7",
+	"developerMessage": "ErrorApis error"
+}

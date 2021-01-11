@@ -1,0 +1,17 @@
+.footer-1{
+    background: #1b1b1b;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    color: #b9b9b9;
+    font-size: 13px;
+}
+.footer-link li a{
+    color: #03B2E2;
+    font-size: 1.2rem;
+}
+.footer-2{
+    position: relative;
+    background: #141414;
+    padding: 20px 0;
+    color: #777777;
+}

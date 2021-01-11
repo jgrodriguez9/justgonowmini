@@ -1,0 +1,24 @@
+.content {
+    padding: 0px;
+    margin-bottom: 2em;
+}
+
+.card{
+    border-radius: 0px;
+}
+
+.internalItem{
+    margin: 20px;
+    padding: 0 16px;
+    border-radius: 30px;
+    color: #000;
+    font-size: 18px;
+    border: 1px solid #000!important;
+    letter-spacing: 1px;
+}
+
+.itemActive, .internalItem:hover{
+    background-color: #406D9F!important;
+    color: white;
+    cursor: pointer;
+}

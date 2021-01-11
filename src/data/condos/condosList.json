@@ -1,0 +1,823 @@
+{
+    "count": 1,
+    "currency": null,
+    "processTime": null,
+    "errors": [],
+    "page": null,
+    "size": 1,
+    "pages": null,
+    "minPrice": 350.0,
+    "maxPrice": 350.0,
+    "f_stars": [],
+    "f_category": [],
+    "f_property": [],
+    "f_perfil": [],
+    "f_cities": [],
+    "f_chains": [],
+    "f_interests": [],
+    "f_plans": [],
+    "sessionId": null,
+    "hotels": [
+        {
+            "id": "1386",
+            "name": "Imperial Fiesta Club at Hotel Casa Maya",
+            "description": "Located directly on the beach, this five star hotel can easily sweep you off your feet. Surrounded by swaying palm trees, white sand and turquoise water, it's a wonderland for those seeking romance as well as families looking for an action packed adventure. Take a plunge at one of three swimming pools or grab a racquet and head to the tennis court for a friendly match. Daredevils can enjoy waterskiing or windsurfing while guests planning to stay low-key can kick back and relax with a margarita at the on-site cocktail lounge. In addition, you'll find shopping, live entertainment and a playground for the kids that are just moments away from your door.",
+            "urlPhoto": "https://www.rci.com/static/Resorts/Assets/1386E01.jpg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": "1",
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Hotel Maya Caribe Faranda",
+            "description": "Located in Cancun (Zona Hotelera), Beach House Maya Caribe by Faranda Hotels is within a 15-minute walk of Tortuga Beach and Langosta Beach.  This beach resort is 3.8 mi (6.2 km) from La Isla Shopping Mall and 3.8 mi (6.2 km) from Cancun Interactive Aquarium.",
+            "urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/51/d7/51d7b4b24969830544b9d50c79b661efdc71bd6a.jpeg",
+            "urlPhotoExtend": null,
+            "total": 50.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": "3",
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Occidental Tucancun All Inclusive",
+            "description": "Occidental Tucancun offers comfort and convenience whether you're on business or holiday in Cancun. Both business travelers and tourists can enjoy the property's facilities and services. Service-minded staff will welcome and guide you at Occidental Tucancún. Each guestroom is elegantly furnished and equipped with handy amenities. The property offers various recreational opportunities. Friendly staff, great facilities, and close proximity to all that Cancun has to offer are three great reasons you should stay at Occidental Tucancún.",
+            "urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/66/b2/66b250d6dd9c1d1418a3bf1819beab61f581bf9d.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Hotel Dos Playas Faranda Cancun",
+            "description": "With a stay at Beach House Dos Playas by Faranda Hotels in Cancun (Zona Hotelera), you'll be a 4-minute walk from Tortuga Beach and 14 minutes by foot from Langosta Beach.  This beach hotel is 3.7 mi (6 km) from La Isla Shopping Mall and 3.7 mi (6 km) from Cancun Interactive Aquarium.",
+            "urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/62/36/6236ea47f9d99904ae1a8ce4e867e7f780edb090.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Flamingo Cancun Resort",
+		"description": "With a stay at Flamingo Cancun Resort in Cancun (Zona Hotelera), you'll be within a 5-minute drive of La Isla Shopping Mall and Cancun Interactive Aquarium.  This beach resort is 2.9 mi (4.7 km) from Aquaworld and 3.2 mi (5.2 km) from Tortuga Beach.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/02/2b/022b2acc30527ccce755a456c9aa0f7b0f1967df.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Hotel Imperial Laguna Faranda",
+		"description": "With a stay at Beach House Imperial Laguna by Faranda Hotels in Cancun (Zona Hotelera), you'll be within a 5-minute drive of Tortuga Beach and Caracol Beach.  This golf hotel is 2.9 mi (4.7 km) from La Isla Shopping Mall and 2.9 mi (4.7 km) from Cancun Interactive Aquarium.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/c7/7c/c77c9819e7bd8d03b2d362f742f72bc7ac991e6d.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": "5",
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Occidental Costa Cancún All Inclusive",
+		"description": "With a stay at Occidental Costa Cancún All Inclusive in Cancun (Zona Hotelera), you'll be a 5-minute drive from Puerto Cancun Marina Town Center and 11 minutes from Plaza Las Americas.  This all-inclusive property is 3.9 mi (6.2 km) from La Sagrada Familia Parish and 4.5 mi (7.3 km) from Las Plazas Outlet Cancun.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/7f/cf/7fcfa17235aba1ceb7171d5b0ef62cd39821ab83.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Casa Maya Cancun",
+		"description": "Located in Cancun (Zona Hotelera), Casa Maya Cancun is steps from Langosta Beach and a 5-minute drive from Tortuga Beach.  This beach hotel is 4.8 mi (7.8 km) from La Isla Shopping Mall and 4.8 mi (7.8 km) from Cancun Interactive Aquarium.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/26/8e/268ee45e2f9a681b1bb6a3388fb6580131c72a8d.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Hotel Sotavento & Yacht Club",
+		"description": "Located in Cancun (Zona Hotelera), Hotel Sotavento &amp; Yacht Club is within a 15-minute walk of Turtle Beach and Langosta Beach.  This hotel is 2 mi (3.2 km) from Tortuga Beach and 5.2 mi (8.4 km) from La Isla Shopping Mall.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/c5/37/c53737d54ea1f2e6313cd6d1944bef6ecca7ebd4.jpeg",
+            "urlPhotoExtend": null,
+            "total": 300.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Temptation Cancun Resort  - Adults Only",
+		"description": "With a stay at Temptation Cancun Resort - Adults Only in Cancun (Zona Hotelera), you'll be a 3-minute walk from Turtle Beach and 8 minutes by foot from Langosta Beach. This property is 2.2 mi (3.5 km) from Tortuga Beach and 5.4 mi (8.7 km) from La Isla Shopping Mall.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/4a/89/4a89adf9623155fccb3041535bfaba95948b86fb.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": "3",
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Imperial Fiesta Club at Hotel Casa Maya",
+            "description": "Located directly on the beach, this five star hotel can easily sweep you off your feet. Surrounded by swaying palm trees, white sand and turquoise water, it's a wonderland for those seeking romance as well as families looking for an action packed adventure. Take a plunge at one of three swimming pools or grab a racquet and head to the tennis court for a friendly match. Daredevils can enjoy waterskiing or windsurfing while guests planning to stay low-key can kick back and relax with a margarita at the on-site cocktail lounge. In addition, you'll find shopping, live entertainment and a playground for the kids that are just moments away from your door.",
+            "urlPhoto": "https://www.rci.com/static/Resorts/Assets/1386E01.jpg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Hotel Maya Caribe Faranda",
+            "description": "Located in Cancun (Zona Hotelera), Beach House Maya Caribe by Faranda Hotels is within a 15-minute walk of Tortuga Beach and Langosta Beach.  This beach resort is 3.8 mi (6.2 km) from La Isla Shopping Mall and 3.8 mi (6.2 km) from Cancun Interactive Aquarium.",
+            "urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/51/d7/51d7b4b24969830544b9d50c79b661efdc71bd6a.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Occidental Tucancun All Inclusive",
+            "description": "Occidental Tucancun offers comfort and convenience whether you're on business or holiday in Cancun. Both business travelers and tourists can enjoy the property's facilities and services. Service-minded staff will welcome and guide you at Occidental Tucancún. Each guestroom is elegantly furnished and equipped with handy amenities. The property offers various recreational opportunities. Friendly staff, great facilities, and close proximity to all that Cancun has to offer are three great reasons you should stay at Occidental Tucancún.",
+            "urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/66/b2/66b250d6dd9c1d1418a3bf1819beab61f581bf9d.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Hotel Dos Playas Faranda Cancun",
+            "description": "With a stay at Beach House Dos Playas by Faranda Hotels in Cancun (Zona Hotelera), you'll be a 4-minute walk from Tortuga Beach and 14 minutes by foot from Langosta Beach.  This beach hotel is 3.7 mi (6 km) from La Isla Shopping Mall and 3.7 mi (6 km) from Cancun Interactive Aquarium.",
+            "urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/62/36/6236ea47f9d99904ae1a8ce4e867e7f780edb090.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Flamingo Cancun Resort",
+		"description": "With a stay at Flamingo Cancun Resort in Cancun (Zona Hotelera), you'll be within a 5-minute drive of La Isla Shopping Mall and Cancun Interactive Aquarium.  This beach resort is 2.9 mi (4.7 km) from Aquaworld and 3.2 mi (5.2 km) from Tortuga Beach.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/02/2b/022b2acc30527ccce755a456c9aa0f7b0f1967df.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": "1",
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Hotel Imperial Laguna Faranda",
+		"description": "With a stay at Beach House Imperial Laguna by Faranda Hotels in Cancun (Zona Hotelera), you'll be within a 5-minute drive of Tortuga Beach and Caracol Beach.  This golf hotel is 2.9 mi (4.7 km) from La Isla Shopping Mall and 2.9 mi (4.7 km) from Cancun Interactive Aquarium.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/c7/7c/c77c9819e7bd8d03b2d362f742f72bc7ac991e6d.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Occidental Costa Cancún All Inclusive",
+		"description": "With a stay at Occidental Costa Cancún All Inclusive in Cancun (Zona Hotelera), you'll be a 5-minute drive from Puerto Cancun Marina Town Center and 11 minutes from Plaza Las Americas.  This all-inclusive property is 3.9 mi (6.2 km) from La Sagrada Familia Parish and 4.5 mi (7.3 km) from Las Plazas Outlet Cancun.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/7f/cf/7fcfa17235aba1ceb7171d5b0ef62cd39821ab83.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Casa Maya Cancun",
+		"description": "Located in Cancun (Zona Hotelera), Casa Maya Cancun is steps from Langosta Beach and a 5-minute drive from Tortuga Beach.  This beach hotel is 4.8 mi (7.8 km) from La Isla Shopping Mall and 4.8 mi (7.8 km) from Cancun Interactive Aquarium.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/26/8e/268ee45e2f9a681b1bb6a3388fb6580131c72a8d.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": null,
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Hotel Sotavento & Yacht Club",
+		"description": "Located in Cancun (Zona Hotelera), Hotel Sotavento &amp; Yacht Club is within a 15-minute walk of Turtle Beach and Langosta Beach.  This hotel is 2 mi (3.2 km) from Tortuga Beach and 5.2 mi (8.4 km) from La Isla Shopping Mall.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/c5/37/c53737d54ea1f2e6313cd6d1944bef6ecca7ebd4.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": "1",
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        },{
+            "id": "1386",
+            "name": "Temptation Cancun Resort  - Adults Only",
+		"description": "With a stay at Temptation Cancun Resort - Adults Only in Cancun (Zona Hotelera), you'll be a 3-minute walk from Turtle Beach and 8 minutes by foot from Langosta Beach. This property is 2.2 mi (3.5 km) from Tortuga Beach and 5.4 mi (8.7 km) from La Isla Shopping Mall.",
+		"urlPhoto": "https://cdn.ostrovok.ru/t/1024x768/content/4a/89/4a89adf9623155fccb3041535bfaba95948b86fb.jpeg",
+            "urlPhotoExtend": null,
+            "total": 350.0,
+            "totalByNight": null,
+            "prices": [
+                {
+                    "paxType": null,
+                    "amount": 350.0,
+                    "ageFrom": null,
+                    "ageTo": null,
+                    "minParticipant": 2,
+                    "maxParticipant": 2
+                }
+            ],
+            "promotion": null,
+            "source": "Vacancy",
+            "stars": "5",
+            "address": {
+                "addressName": "Boulevard Kukulcan Kilometro 5 Zona Hotelera",
+                "street": "",
+                "postal": "",
+                "city": "CANCUN/RIVIERA MAYA",
+                "stateCode": "QROO",
+                "country": "MEXICO",
+                "geolocation": {
+                    "latitude": "21.1578",
+                    "longitude": "-86.8265"
+                }
+            },
+            "msg": "",
+            "name_slugify": "imperial-fiesta-club-at-hotel-casa-maya",
+            "chain": "",
+            "amenities": [],
+            "contractType": null,
+            "isRefundable": "N/A",
+            "lowerCaseName": "imperial fiesta club at hotel casa maya"
+        }
+    ]
+}

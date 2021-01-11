@@ -1,0 +1,3388 @@
+{
+  "id": "celuisma_maya_caribe",
+  "name": "Hotel Maya Caribe Faranda",
+  "numbersPhone": [
+    {
+      "type": "HOME",
+      "number": "52-998-849 41 62"
+    }
+  ],
+  "address": {
+    "addressName": "Blvd. Kukulcan KM.6, Zona Hotelera, Cancun",
+    "street": "",
+    "postal": "",
+    "city": "CUN",
+    "stateCode": null,
+    "country": "MX",
+    "geolocation": {
+      "latitude": "21.139996",
+      "longitude": "-86.771935"
+    }
+  },
+  "source": "RateHawk",
+  "description": "Located in Cancun (Zona Hotelera), Beach House Maya Caribe by Faranda Hotels is within a 15-minute walk of Tortuga Beach and Langosta Beach.  This beach resort is 3.8 mi (6.2 km) from La Isla Shopping Mall and 3.8 mi (6.2 km) from Cancun Interactive Aquarium.",
+  "amenities": [
+    {
+      "id": "ATM",
+      "name": "ATM",
+      "description": "ATM",
+      "extraCharge": false
+    },
+    {
+      "id": "Air conditioning",
+      "name": "Air conditioning",
+      "description": "Air conditioning",
+      "extraCharge": false
+    },
+    {
+      "id": "Currency exchange",
+      "name": "Currency exchange",
+      "description": "Currency exchange",
+      "extraCharge": false
+    },
+    {
+      "id": "Gift shop",
+      "name": "Gift shop",
+      "description": "Gift shop",
+      "extraCharge": false
+    },
+    {
+      "id": "Tour assistance",
+      "name": "Tour assistance",
+      "description": "Tour assistance",
+      "extraCharge": false
+    },
+    {
+      "id": "Garden",
+      "name": "Garden",
+      "description": "Garden",
+      "extraCharge": false
+    },
+    {
+      "id": "Terrace",
+      "name": "Terrace",
+      "description": "Terrace",
+      "extraCharge": false
+    },
+    {
+      "id": "Doorman",
+      "name": "Doorman",
+      "description": "Doorman",
+      "extraCharge": false
+    },
+    {
+      "id": "All Spaces Non-Smoking (public and private)",
+      "name": "All Spaces Non-Smoking (public and private)",
+      "description": "All Spaces Non-Smoking (public and private)",
+      "extraCharge": false
+    },
+    {
+      "id": "Reception desk",
+      "name": "Reception desk",
+      "description": "Reception desk",
+      "extraCharge": false
+    },
+    {
+      "id": "Non-smoking rooms",
+      "name": "Non-smoking rooms",
+      "description": "Non-smoking rooms",
+      "extraCharge": false
+    },
+    {
+      "id": "Room service",
+      "name": "Room service",
+      "description": "Room service",
+      "extraCharge": false
+    },
+    {
+      "id": "Cable TV",
+      "name": "Cable TV",
+      "description": "Cable TV",
+      "extraCharge": false
+    },
+    {
+      "id": "TV",
+      "name": "TV",
+      "description": "TV",
+      "extraCharge": false
+    },
+    {
+      "id": "Hairdryer",
+      "name": "Hairdryer",
+      "description": "Hairdryer",
+      "extraCharge": false
+    },
+    {
+      "id": "Shower/Bathtub",
+      "name": "Shower/Bathtub",
+      "description": "Shower/Bathtub",
+      "extraCharge": false
+    },
+    {
+      "id": "Shower",
+      "name": "Shower",
+      "description": "Shower",
+      "extraCharge": false
+    },
+    {
+      "id": "Wardrobe/Closet",
+      "name": "Wardrobe/Closet",
+      "description": "Wardrobe/Closet",
+      "extraCharge": false
+    },
+    {
+      "id": "Linens",
+      "name": "Linens",
+      "description": "Linens",
+      "extraCharge": false
+    },
+    {
+      "id": "Alarm clock",
+      "name": "Alarm clock",
+      "description": "Alarm clock",
+      "extraCharge": false
+    },
+    {
+      "id": "Mosquito net",
+      "name": "Mosquito net",
+      "description": "Mosquito net",
+      "extraCharge": false
+    },
+    {
+      "id": "Safe (in room)",
+      "name": "Safe (in room)",
+      "description": "Safe (in room)",
+      "extraCharge": false
+    },
+    {
+      "id": "Toiletries",
+      "name": "Toiletries",
+      "description": "Toiletries",
+      "extraCharge": false
+    },
+    {
+      "id": "Iron and board",
+      "name": "Iron and board",
+      "description": "Iron and board",
+      "extraCharge": false
+    },
+    {
+      "id": "Laundry",
+      "name": "Laundry",
+      "description": "Laundry",
+      "extraCharge": false
+    },
+    {
+      "id": "Safe-deposit box",
+      "name": "Safe-deposit box",
+      "description": "Safe-deposit box",
+      "extraCharge": false
+    },
+    {
+      "id": "Concierge services",
+      "name": "Concierge services",
+      "description": "Concierge services",
+      "extraCharge": false
+    },
+    {
+      "id": "Luggage storage",
+      "name": "Luggage storage",
+      "description": "Luggage storage",
+      "extraCharge": false
+    },
+    {
+      "id": "Wake-up service",
+      "name": "Wake-up service",
+      "description": "Wake-up service",
+      "extraCharge": false
+    },
+    {
+      "id": "Telephone",
+      "name": "Telephone",
+      "description": "Telephone",
+      "extraCharge": false
+    },
+    {
+      "id": "Bar",
+      "name": "Bar",
+      "description": "Bar",
+      "extraCharge": false
+    },
+    {
+      "id": "Cafe",
+      "name": "Cafe",
+      "description": "Cafe",
+      "extraCharge": false
+    },
+    {
+      "id": "Restaurant",
+      "name": "Restaurant",
+      "description": "Restaurant",
+      "extraCharge": false
+    },
+    {
+      "id": "Restaurant (buffet style)",
+      "name": "Restaurant (buffet style)",
+      "description": "Restaurant (buffet style)",
+      "extraCharge": false
+    },
+    {
+      "id": "Snack bar",
+      "name": "Snack bar",
+      "description": "Snack bar",
+      "extraCharge": false
+    },
+    {
+      "id": "Packed Lunches",
+      "name": "Packed Lunches",
+      "description": "Packed Lunches",
+      "extraCharge": false
+    },
+    {
+      "id": "Bottled water",
+      "name": "Bottled water",
+      "description": "Bottled water",
+      "extraCharge": false
+    },
+    {
+      "id": "Free Wi-Fi",
+      "name": "Free Wi-Fi",
+      "description": "Free Wi-Fi",
+      "extraCharge": false
+    },
+    {
+      "id": "In-room internet",
+      "name": "In-room internet",
+      "description": "In-room internet",
+      "extraCharge": false
+    },
+    {
+      "id": "Car rental",
+      "name": "Car rental",
+      "description": "Car rental",
+      "extraCharge": false
+    },
+    {
+      "id": "Airport transportation",
+      "name": "Airport transportation",
+      "description": "Airport transportation",
+      "extraCharge": false
+    },
+    {
+      "id": "Spanish",
+      "name": "Spanish",
+      "description": "Spanish",
+      "extraCharge": false
+    },
+    {
+      "id": "English",
+      "name": "English",
+      "description": "English",
+      "extraCharge": false
+    },
+    {
+      "id": "Multi-language staff",
+      "name": "Multi-language staff",
+      "description": "Multi-language staff",
+      "extraCharge": false
+    },
+    {
+      "id": "Sun Deck",
+      "name": "Sun Deck",
+      "description": "Sun Deck",
+      "extraCharge": false
+    },
+    {
+      "id": "Ping-Pong",
+      "name": "Ping-Pong",
+      "description": "Ping-Pong",
+      "extraCharge": false
+    },
+    {
+      "id": "Parking",
+      "name": "Parking",
+      "description": "Parking",
+      "extraCharge": false
+    },
+    {
+      "id": "Swimming pool",
+      "name": "Swimming pool",
+      "description": "Swimming pool",
+      "extraCharge": false
+    },
+    {
+      "id": "Outdoor pool",
+      "name": "Outdoor pool",
+      "description": "Outdoor pool",
+      "extraCharge": false
+    },
+    {
+      "id": "Beach facilities",
+      "name": "Beach facilities",
+      "description": "Beach facilities",
+      "extraCharge": false
+    },
+    {
+      "id": "Water sport facilities",
+      "name": "Water sport facilities",
+      "description": "Water sport facilities",
+      "extraCharge": false
+    },
+    {
+      "id": "Private beach",
+      "name": "Private beach",
+      "description": "Private beach",
+      "extraCharge": false
+    },
+    {
+      "id": "Beach/pool towels",
+      "name": "Beach/pool towels",
+      "description": "Beach/pool towels",
+      "extraCharge": false
+    },
+    {
+      "id": "Next to the beach",
+      "name": "Next to the beach",
+      "description": "Next to the beach",
+      "extraCharge": false
+    },
+    {
+      "id": "Fax and copy machine",
+      "name": "Fax and copy machine",
+      "description": "Fax and copy machine",
+      "extraCharge": false
+    },
+    {
+      "id": "Meeting and presentation facilities",
+      "name": "Meeting and presentation facilities",
+      "description": "Meeting and presentation facilities",
+      "extraCharge": false
+    },
+    {
+      "id": "Diving",
+      "name": "Diving",
+      "description": "Diving",
+      "extraCharge": false
+    },
+    {
+      "id": "Snorkelling",
+      "name": "Snorkelling",
+      "description": "Snorkelling",
+      "extraCharge": false
+    },
+    {
+      "id": "Golf course",
+      "name": "Golf course",
+      "description": "Golf course",
+      "extraCharge": false
+    },
+    {
+      "id": "Tennis court",
+      "name": "Tennis court",
+      "description": "Tennis court",
+      "extraCharge": false
+    },
+    {
+      "id": "Gym",
+      "name": "Gym",
+      "description": "Gym",
+      "extraCharge": false
+    },
+    {
+      "id": "Massage",
+      "name": "Massage",
+      "description": "Massage",
+      "extraCharge": false
+    },
+    {
+      "id": "Spa",
+      "name": "Spa",
+      "description": "Spa",
+      "extraCharge": false
+    },
+    {
+      "id": "Children swimming pool",
+      "name": "Children swimming pool",
+      "description": "Children swimming pool",
+      "extraCharge": false
+    },
+    {
+      "id": "Children's menu",
+      "name": "Children's menu",
+      "description": "Children's menu",
+      "extraCharge": false
+    },
+    {
+      "id": "Temperature control for staff",
+      "name": "Temperature control for staff",
+      "description": "Temperature control for staff",
+      "extraCharge": false
+    },
+    {
+      "id": "Personal protection equipment for staff",
+      "name": "Personal protection equipment for staff",
+      "description": "Personal protection equipment for staff",
+      "extraCharge": false
+    },
+    {
+      "id": "Extra decontamination measures",
+      "name": "Extra decontamination measures",
+      "description": "Extra decontamination measures",
+      "extraCharge": false
+    },
+    {
+      "id": "Temperature control for guests",
+      "name": "Temperature control for guests",
+      "description": "Temperature control for guests",
+      "extraCharge": false
+    },
+    {
+      "id": "Personal protection equipment for guests",
+      "name": "Personal protection equipment for guests",
+      "description": "Personal protection equipment for guests",
+      "extraCharge": false
+    },
+    {
+      "id": "Additional measures against COVID-19",
+      "name": "Additional measures against COVID-19",
+      "description": "Additional measures against COVID-19",
+      "extraCharge": false
+    }
+  ],
+  "checking": "08-01-2021",
+  "checkout": "11-01-2021",
+  "chain": "",
+  "cancellationPolicy": {
+    "id": null,
+    "description": null,
+    "startDate": null,
+    "endDate": null,
+    "amountDetail": null,
+    "nonRefundable": false
+  },
+  "photos": [
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/51/d7/51d7b4b24969830544b9d50c79b661efdc71bd6a.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/ostrovok/aa/8d/aa8dbf2a28b7125df1ffc1f39468f15dc5bdca6f.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/ostrovok/35/97/35979eed2f090317ec1984015d6a1e84dc47a48a.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/71/6b/716b34db695aa6d88ba284567528a07e1f61e390.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/6f/3b/6f3bce6dec8ff5def903a580178eed8a3f844417.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/ostrovok/0b/3f/0b3fa16467a3d5aecac057c6dd37c7f9feb0fa06.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/ef/03/ef038f7e174cf9f34fe1c2eeb37a6069d551a464.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/64/91/6491b15cd4bea03f4e3126aedddf810478016ec3.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/4d/57/4d577303b732dcc75072cf454669e2fa867bd720.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/da/c5/dac5013f32d9be177c24cb14c47bf5025ec2a166.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/aa/2a/aa2a9ab443162dbd2277809bf17a79653e07badd.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/ae/b4/aeb47b575d1421011f72917ca525b4b18cafab05.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/3e/e9/3ee95615a9fb9be1bf277de390016d78eaa3b24f.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/15/61/15618bbfb896f2b0a8cdf0014c013a68ebd0da70.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/25/a5/25a52177c51d022cf66c39e62251813863027576.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/32/43/32438eb01cc33c51b695a01c173d6cc783664cf1.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/f2/c1/f2c1ec850f4b1705dffaa7e91fcc0a45279f61a5.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/cf/ee/cfee37da4475daa37078eaa61f328465346599ec.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/2a/28/2a282742f0c9d02b44cb8490060bd3dc098254b6.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/ee/95/ee958e162e0145ab3af9f4af45ecc5f1dea50ad9.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/1a/8f/1a8ffa425e5189c1156996037828cd52531010d9.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/4f/23/4f2322bd5b7214c2359c7212ea5b133eab4023e4.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/38/2a/382aae3fdf40f9f54745955c6e5bed908d110669.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/16/33/163351c0a55dda19a190c9c8afe21b96e720e064.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/a4/db/a4dbdf65c38e0b22c119f0b7cfcd37a300d416a7.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/ca/9c/ca9c4050d9a534737720cebde5e257cd8961e28c.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/86/c3/86c3b64e52e8e81a3ab4ae8f714deea723bda855.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/48/e8/48e8f762cd53f8129aae8da5d8778348491dd96f.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/37/54/37546a4e65e96e7e3d973c5c4b21886128945be6.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/b7/aa/b7aa71497df0e5a6ccac7692e9e222d1ae039b16.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/13/99/1399f760f667ac403ff04f67f24676334c7cfdc7.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/7c/b6/7cb6bc90f6dc00a52ea2c019e9d089632a004634.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/9e/f9/9ef98d25c255b70e6b75c14ef4ff410f0fcddac5.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/36/18/361851b59bdc53ccfe9a8f4be8d1efdafdfa64ff.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/b8/5b/b85b7870f174dbbecab4e0f9686a8c1807b40a9c.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/1e/80/1e8068561b04a785e5170a266ac0331bf057819b.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/a7/0f/a70fdd9e2be5aba93da2fe94bc8b41ac97b27cbc.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/8e/d7/8ed712213a3f5fae874b01cf6c14faf0aa626826.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/7a/0a/7a0ab7d754fe0aef190fe3075d93933c1c5a0f9e.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/59/42/5942f355c3843c484c135098ca6588cb612f5f0d.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/d0/cf/d0cfc4aacf1819bdf97f23cebec9cc978213f6ca.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/6a/86/6a86b9da50039f058d5e07e1db0fbd7dc277843c.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/a5/57/a557f6227ebb3ebb46623db589a8520eebb68037.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/7e/04/7e04c520a73ed404912b95e197dca5fe51d6254a.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/d8/18/d818bd82dd8402bd4b1f3d3f11b7ccfffad768a1.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/d6/df/d6df79e06bbe2e70fd5b297a1cbe2525cc81edf0.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/f5/50/f5507971cc4ead53bcc649e50978c6ec1e4726ff.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/02/31/0231bbcc61f6bb3d8b7eea0202a9f1c0b1b42c10.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/71/51/7151e8b03e80feaa37d93fdd270753b36acadef2.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    },
+    {
+      "url": "https://cdn.ostrovok.ru/t/1024x768/content/a2/21/a221cbd39017399599f6829b43c4b7b04d7121ae.jpeg",
+      "height": null,
+      "width": null,
+      "caption": null,
+      "type": null
+    }
+  ],
+  "slugify": "hotel-maya-caribe-faranda",
+  "category": "",
+  "rates": [
+    {
+      "rateKey": "h-eb6a892e-bb7a-5fb1-92f6-e8bd878e0497",
+      "rateType": null,
+      "amountDetail": {
+        "total": 199.0,
+        "base": 199.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "08-01-2021T00:00",
+          "amountDetail": {
+            "amount": 131.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "08-01-2021T00:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 199.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 14.34,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 5.38,
+          "currency": "USD",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-193150e0-d9f3-5c5c-86c7-cf901a9bea53",
+      "rateType": null,
+      "amountDetail": {
+        "total": 278.0,
+        "base": 278.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 278.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 20.04,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 7.51,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "breakfast",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed) (bed type is subject to availability)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-2cd361f2-72c0-5714-8940-b79c600c54d7",
+      "rateType": null,
+      "amountDetail": {
+        "total": 284.0,
+        "base": 284.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "08-01-2021T05:00",
+          "amountDetail": {
+            "amount": 107.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "08-01-2021T05:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 284.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 20.47,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 7.68,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed) (bed type is subject to availability)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-4ff897b8-8d3a-55c8-a292-8bbd87eb9c19",
+      "rateType": null,
+      "amountDetail": {
+        "total": 314.0,
+        "base": 314.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 314.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 22.63,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 8.49,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Double Studio (double bed)",
+          "type": "Double Studio",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-1817eaec-ba4e-57c0-8013-a70e91ed70ed",
+      "rateType": null,
+      "amountDetail": {
+        "total": 330.0,
+        "base": 330.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "08-01-2021T00:00",
+          "amountDetail": {
+            "amount": 219.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "08-01-2021T00:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 330.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 23.78,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 8.92,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "all-inclusive",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-fdfb1b33-496a-50c2-b9b8-fc53c61d70fb",
+      "rateType": null,
+      "amountDetail": {
+        "total": 340.0,
+        "base": 340.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "30-12-2020T23:00",
+          "amountDetail": {
+            "amount": 0.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "30-12-2020T23:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 340.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 24.5,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 9.19,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-ffd219d3-394f-557c-b0f7-007df98d9deb",
+      "rateType": null,
+      "amountDetail": {
+        "total": 351.0,
+        "base": 351.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 351.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 25.3,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 9.49,
+          "currency": "USD",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "breakfast",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Double Studio (double bed)",
+          "type": "Double Studio",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-f4556a5f-2e66-5d7e-a3ac-a2d3a928dece",
+      "rateType": null,
+      "amountDetail": {
+        "total": 402.0,
+        "base": 402.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 402.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 28.97,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 10.86,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double Studio (double bed) (bed type is subject to availability)",
+          "type": "Standard Double Studio",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-f6e59141-1b7a-5159-b4a5-6f9f62b0e2aa",
+      "rateType": null,
+      "amountDetail": {
+        "total": 404.0,
+        "base": 404.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "09-01-2021T00:00",
+          "amountDetail": {
+            "amount": 269.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "09-01-2021T00:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 404.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 29.12,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 10.92,
+          "currency": "USD",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "2 twin beds",
+          "description": "Standard Double room (2 twin beds) (2 double beds, bed type is subject to availability)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "twin",
+              "description": "twin",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-134be0ef-360f-55b2-aedf-3953a0035134",
+      "rateType": null,
+      "amountDetail": {
+        "total": 414.0,
+        "base": 414.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "07-01-2021T05:00",
+          "amountDetail": {
+            "amount": 275.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "07-01-2021T05:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 414.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 29.84,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 11.19,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "2 twin beds",
+          "description": "Standard Double room (2 twin beds) (2 double beds)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "twin",
+              "description": "twin",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-032ff764-b6a2-5276-b5cd-1689023da7ab",
+      "rateType": null,
+      "amountDetail": {
+        "total": 424.0,
+        "base": 424.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "08-01-2021T00:00",
+          "amountDetail": {
+            "amount": 282.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "08-01-2021T00:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 424.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 30.56,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 11.46,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "2 twin beds",
+          "description": "Standard Double room (2 twin beds) (2 double beds)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "twin",
+              "description": "twin",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-17b6093d-5e35-5b2e-8128-c2445901ee81",
+      "rateType": null,
+      "amountDetail": {
+        "total": 449.0,
+        "base": 449.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 449.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 32.36,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 12.14,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "breakfast",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double Studio (double bed) (bed type is subject to availability)",
+          "type": "Standard Double Studio",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-df05f471-f0c3-5090-92b2-dffec3790d6c",
+      "rateType": null,
+      "amountDetail": {
+        "total": 451.0,
+        "base": 451.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "09-01-2021T00:00",
+          "amountDetail": {
+            "amount": 300.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "09-01-2021T00:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 451.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 32.5,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 12.19,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "breakfast",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "2 twin beds",
+          "description": "Standard Double room (2 twin beds) (2 double beds, bed type is subject to availability)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "twin",
+              "description": "twin",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-29323022-fc8a-5632-ac4f-5854a19c9225",
+      "rateType": null,
+      "amountDetail": {
+        "total": 456.0,
+        "base": 456.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "29-12-2020T05:00",
+          "amountDetail": {
+            "amount": 0.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "29-12-2020T05:00",
+          "endDate": "06-01-2021T05:00",
+          "amountDetail": {
+            "amount": 152.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "06-01-2021T05:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 456.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 32.86,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 12.32,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "nomeal",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-c0393978-5547-5361-bb82-09c750cb7f48",
+      "rateType": null,
+      "amountDetail": {
+        "total": 463.0,
+        "base": 463.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "07-01-2021T05:00",
+          "amountDetail": {
+            "amount": 308.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "07-01-2021T05:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 463.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 33.37,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 12.51,
+          "currency": "USD",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "breakfast",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "2 twin beds",
+          "description": "Standard Double room (2 twin beds) (2 double beds)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "twin",
+              "description": "twin",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-586dd02a-4935-56af-8f70-1391175d4d46",
+      "rateType": null,
+      "amountDetail": {
+        "total": 474.0,
+        "base": 474.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "08-01-2021T00:00",
+          "amountDetail": {
+            "amount": 316.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "08-01-2021T00:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 474.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 34.16,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 12.81,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "breakfast",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "2 twin beds",
+          "description": "Standard Double room (2 twin beds) (2 double beds)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "twin",
+              "description": "twin",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-625cd7db-f9cf-5906-9120-4baf5fedc040",
+      "rateType": null,
+      "amountDetail": {
+        "total": 505.0,
+        "base": 505.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "29-12-2020T05:00",
+          "amountDetail": {
+            "amount": 0.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "29-12-2020T05:00",
+          "endDate": "06-01-2021T05:00",
+          "amountDetail": {
+            "amount": 168.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "06-01-2021T05:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 505.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 36.4,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 13.65,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "breakfast",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-e084e099-f831-58e9-91b1-501718c7099c",
+      "rateType": null,
+      "amountDetail": {
+        "total": 534.0,
+        "base": 534.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 534.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 38.49,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 14.43,
+          "currency": "USD",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "all-inclusive",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Double Studio (double bed)",
+          "type": "Double Studio",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-99b870c6-a67b-5b0e-934b-525651dfd646",
+      "rateType": null,
+      "amountDetail": {
+        "total": 535.0,
+        "base": 535.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "30-12-2020T23:00",
+          "amountDetail": {
+            "amount": 0.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "30-12-2020T23:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 535.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 38.56,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 14.46,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "all-inclusive",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-a7c565c3-f5dc-5cf6-a3da-b5fb5bc65a7a",
+      "rateType": null,
+      "amountDetail": {
+        "total": 554.0,
+        "base": 554.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "29-12-2020T05:00",
+          "amountDetail": {
+            "amount": 0.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "29-12-2020T05:00",
+          "endDate": "06-01-2021T05:00",
+          "amountDetail": {
+            "amount": 184.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": false
+        },
+        {
+          "id": null,
+          "description": null,
+          "startDate": "06-01-2021T05:00",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 554.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 39.93,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 14.97,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "full-board",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double room (double bed)",
+          "type": "Standard Double room",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    },
+    {
+      "rateKey": "h-47102545-74dc-5119-94e8-299f45708582",
+      "rateType": null,
+      "amountDetail": {
+        "total": 683.0,
+        "base": 683.0,
+        "currency": "USD",
+        "taxPercentage": null,
+        "extraChargesAdult": null
+      },
+      "effectiveDate": "08-01-2021T05:00",
+      "expireDate": "11-01-2021T05:00",
+      "cancellationPolicies": [
+        {
+          "id": null,
+          "description": null,
+          "startDate": "26-12-2020T18:32",
+          "endDate": "11-01-2021T05:00",
+          "amountDetail": {
+            "amount": 683.0,
+            "type": "AMOUNT"
+          },
+          "nonRefundable": true
+        }
+      ],
+      "taxes": [
+        {
+          "name": "vat",
+          "included": true,
+          "amount": 49.23,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "environmental_fee",
+          "included": false,
+          "amount": 60.0,
+          "currency": "MXN",
+          "description": null
+        },
+        {
+          "name": "service_fee",
+          "included": true,
+          "amount": 18.46,
+          "currency": "USD",
+          "description": null
+        },
+        {
+          "name": "city_tax",
+          "included": false,
+          "amount": 73.23,
+          "currency": "MXN",
+          "description": null
+        }
+      ],
+      "inclusions": "",
+      "mealPlan": "all-inclusive",
+      "marketId": "",
+      "contractId": "",
+      "promotions": [
+        
+      ],
+      "reCheck": false,
+      "changedPrice": false,
+      "availability": true,
+      "comments": "",
+      "roomDescription": [
+        {
+          "noRoom": "1",
+          "category": "double bed",
+          "description": "Standard Double Studio (double bed) (bed type is subject to availability)",
+          "type": "Standard Double Studio",
+          "amenities": [
+            {
+              "name": "double",
+              "description": "double",
+              "extraCharge": false
+            },
+            {
+              "name": "non-smoking",
+              "description": "non-smoking",
+              "extraCharge": false
+            },
+            {
+              "name": "private-bathroom",
+              "description": "private-bathroom",
+              "extraCharge": false
+            },
+            {
+              "name": "window",
+              "description": "window",
+              "extraCharge": false
+            }
+          ],
+          "photos": [
+            
+          ],
+          "maxAdult": 2,
+          "maxChild": 0,
+          "maxCapacity": 2,
+          "guest": {
+            "adults": 2,
+            "children": 0,
+            "infant": 0,
+            "junior": 0,
+            "childrenAges": [
+              
+            ],
+            "total": 2
+          }
+        }
+      ]
+    }
+  ],
+  "totalRoom": null,
+  "stars": 2,
+  "beanReviews": [
+    
+  ],
+  "beanRestaurants": [
+    
+  ],
+  "extraInformation": null
+}

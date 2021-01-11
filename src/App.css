@@ -1,0 +1,175 @@
+.custom-switch{
+  padding: 0;
+}
+.cover-black{
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+}
+.hp-100{
+  height: 100px;
+}
+.hp-70{
+  height: 70px;
+}
+.btn-purple{
+  background: #A262EB;
+  border-radius: 30px;
+  color: #ffffff;
+  font-weight: 600;
+  border: none!important;
+}
+.btn-purple:hover,
+.btn-purple:active,
+.btn-purple:focus{
+  background: #A262EB!important;
+  border: none!important;
+  outline: none!important;
+  box-shadow: none!important;
+}
+.btn-purple:disabled{
+  background: #c7a2f1!important;
+}
+.ft-12{
+  font-size: 12px;
+}
+.color-blue{
+  color: #03B2E2;
+}
+.ft-4rem{
+  font-size: 4rem;
+}
+.lh-03{
+  line-height: 0.3;
+}
+.error{
+  border-color: red;
+}
+.lh-1{
+  line-height: 1;
+}
+.ft-08rem{
+  font-size: .8rem;
+}
+.text-price{
+  color: #51BC65;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+.ft-1rem{
+  font-size: 1rem;
+}
+.icon-width-1-3rem{
+  width: 1.3rem;
+  height: 1.3rem;
+}
+.lh-1-1{
+  line-height: 1.1;
+}
+.card-img-max-height{
+  max-height: 170px;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.stars-on{
+  color: #ffc107;
+}
+.stars-off{
+  color: #d0cfcb;
+}
+.lh-0-7{
+  line-height: .7;
+}
+.mx-height-120{
+  max-height: 120px;
+}
+.ft-0-9rem{
+  font-size: .9rem;
+}
+.icon-20{
+  height: 20px;
+  width: 20px;
+}
+.bg-facebook{
+  color: #1877f2;
+}
+.text-go, .text-go-welcome{
+  color: #406D9F;
+  font-size: 8em;
+  display: block;
+  font-weight: 700;
+  transform: scale(1.2);
+}
+.text-go-welcome{
+  color: #F4E31D;
+}
+.fw-300{
+  font-weight: 300;
+}
+.bg-div{
+  width: 100%;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+.cursor-pointer{
+  cursor: pointer;
+}
+.h-100p{
+  height: 100%;
+}
+.object-cover{
+  object-fit: cover;
+}
+.icon-16{
+  height: 16px;
+  width: 16px;
+}
+.ft-6em{
+  font-size: 6em!important;
+}
+.ft-2-5rem{
+  font-size: 2.5rem;
+}
+.line-before::before{
+  border: 1px solid #000;
+}
+.mt-load{
+  margin-top: 8rem;
+}
+.icon-14{
+  height: 14px;
+  width: 14px;
+}
+.custom-control{
+  z-index: auto;
+}
+.ft-1-5rem{
+  font-size: 1.5rem;
+}
+.letter-4{
+  letter-spacing: 4px;
+}
+.invalid-feedback{
+  display: block;
+  color: #f98d8d;
+}
+.icon-width-1-2rem{
+  width: 1.2rem;
+  height: 1.2rem;
+}
+.hover-underline:hover{
+  text-decoration: underline;
+}
+.ul-ft-14 li a{
+  font-size: 14px;
+}
+.icon-12{
+  height: 12px;
+  width: 12px;
+}

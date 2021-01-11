@@ -1,0 +1,30 @@
+.navbar-home{
+    background: rgba(255, 255, 255, 0.5);
+    height: 90px;
+}
+
+.bg-white-light{
+    background: rgba(255,255,255, 0.7)!important;
+}
+.sticky{
+    background: #ffffff!important;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5);
+    -webkit-box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.5); 
+    transition: transform 500ms ease, background 500ms ease;
+    -webkit-transition: transform 500ms ease, background 500ms ease;    
+    background: rgba(255, 255, 255, 0.96);
+}
+.nav-header a{
+    font-weight: 600;
+    padding: 33px 25px!important;
+}
+.nav-header a.active{
+    background: #03B2E2;
+    color: #fff!important;    
+}
+.nav-header a.p-regular-a{
+    padding: .25rem 1.5rem!important;
+}
+.language-item{
+    text-transform: uppercase;
+}

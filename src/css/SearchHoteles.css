@@ -1,0 +1,97 @@
+.select-hotel-home{
+    border: 0;
+    border-bottom: #c8c8c7;
+    outline: none;
+}
+.select-hotel-home span{
+    background: transparent;
+}
+.select-hotel-home .css-yk16xz-control,
+.select-hotel-home .css-1pahdxg-control{
+    background: transparent;
+    border: 0;
+    border-bottom: 1px solid;
+    border-radius: 0;
+    color: white;
+}
+.select-hotel-home .css-1pahdxg-control:hover{
+    border-left-color: transparent;
+    border-right-color: transparent;
+    border-top-color: transparent;
+    box-shadow: none;
+}
+.select-hotel-home .css-b8ldur-Input,
+.select-hotel-home .css-1wa3eu0-placeholder,
+.select-hotel-home .css-1uccc91-singleValue{
+    color: #fff;
+}
+.input-control-huespedes{
+    color: #ffffff;
+    font-size: 14px;
+    font-weight: 600;
+    border-bottom: 2px solid #c8c8c7;
+    line-height: 1.7;
+}
+.icon-24{
+    height: 24px;
+    width: 24px;
+}
+.dropdown-control-huespedes{
+    width: 100%!important;
+    background: transparent!important;
+    border: 0!important;
+    text-align: left!important;
+    padding-left: 0!important;
+}
+.dropdown-control-huespedes:focus{
+    outline: none!important;
+    border: 0!important;
+    box-shadow: none!important;
+}
+.dropdown-control-huespedes::after{
+    display: none!important;
+}
+.btn-h{
+    height: 18px;
+    width: 18px;
+    border: 1px solid #406D9F;
+    border-radius: 50%;
+    display: inline-block;
+    font-size: 9px;
+    line-height: 1.7;
+    vertical-align: middle;
+    text-align: center;
+    -webkit-box-shadow: 0px 2px 5px -2px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 5px -2px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 5px -2px rgba(0,0,0,0.75);
+    cursor: pointer;
+}
+.btn-h:hover{
+    background-color: #406D9F;
+    color: #fff;
+}
+.adult-number{
+    height: 18px;
+    width: 18px;
+    text-align: center;
+    line-height: 1;
+    margin-left: 2px;
+    margin-right: 2px;
+    display: inline-block
+}
+
+/*vuelos*/
+.flight-type .nav-link{
+    background-color: #ddd!important;
+    color: #444444!important;
+    padding: 4px!important;
+}
+.flight-type .nav-link.active, .flight-type .show>.nav-link{
+    color: #fff!important;
+    background-color: #007bff!important;
+}
+span.btn-h.disabled{
+    cursor: not-allowed;
+    color: #999;
+    background-color: #ddd;
+}

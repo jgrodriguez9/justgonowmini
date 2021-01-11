@@ -1,0 +1,33 @@
+.text-include-tour, .text-no-include-tour{
+    color: #03B2E2;
+    font-size: 14px;
+    font-weight: 600;
+}
+.text-no-include-tour{
+    color: #F24820;
+}
+.text-include-tour + ul,
+.text-no-include-tour + ul{
+    line-height: 1.1;
+}
+ul.tour-list{
+    height: 70px;
+    overflow-y: auto;
+}
+.title-tour-rate{
+    padding: 5px 5px;
+    width: max-content;
+    background: #406D9F;
+    color: #fff;
+    font-weight: 600;
+    border-radius: 3px;
+    margin-bottom: 10px;
+}
+
+div.line-price{
+    border-left: 1px dashed #7d77f0;
+    position: absolute;
+    top: 5%;
+    left: 70%;
+    height: 90%;
+}

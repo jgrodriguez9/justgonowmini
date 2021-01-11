@@ -1,0 +1,94 @@
+.CalendarDay__selected_span {
+    background: #3d9bff!important; /*background*/
+    color: white!important; /*text*/    
+  }
+  
+  /* Will edit selected date or the endpoints of a range of dates*/
+  .CalendarDay__selected {
+    background: #0069d9!important;
+    color: white!important;
+  }
+  
+  /* Will edit when hovered over. _span style also has this property*/
+  .CalendarDay__selected:hover {
+    background: #0069d9!important;
+    color: white!important;
+  }
+  /* Will edit when the second date (end date) in a range of dates
+  /* is not yet selected. Edits the dates between your mouse and said date*/
+  .CalendarDay__hovered_span:hover,
+  .CalendarDay__hovered_span {
+    background: #3d9bff!important;
+    color: white!important;
+  }
+  .CalendarDay__selected_span:active, .CalendarDay__selected_span:hover{
+      background: #1082fc!important;
+  }
+  .DateRangePicker, .SingleDatePicker{
+    width: 100%!important;
+}
+.SingleDatePicker{
+  line-height: 2;
+}
+.DateRangePickerInput,.SingleDatePickerInput{
+    background-color: transparent!important;
+}
+.DateInput_input {
+    font-weight: 600!important;
+    font-size: 14px!important;
+    line-height: 0!important;
+    color: #ffffff!important;
+    background-color: transparent!important;
+    width: 100%!important;
+    border: 0!important;
+    border-top: 0!important;
+    border-right: 0!important;
+    border-bottom: 2px solid transparent!important;
+    border-left: 0!important;
+    padding: 0!important;
+    border-radius: 0!important;
+}
+.DateInput_input__focused{
+    border-bottom: 0!important;
+}
+#your_unique_end_date_id::placeholder,
+#your_unique_end_date_id::-moz-placeholder,
+#your_unique_end_date_id::-webkit-input-placeholder,
+#your_unique_end_date_id-ms-input-placeholder{
+    color: #fff!important;
+}
+.DateInput{
+    width: 85px!important;
+    background-color: transparent!important;
+}
+.DateRangePickerInput__withBorder,
+.SingleDatePickerInput__withBorder{
+    border: 0!important;
+    border-bottom: 2px solid #c8c8c7!important;
+    width: 100%!important;
+}
+.DateRangePickerInput_arrow{
+    margin-top: -5px!important;
+    line-height: 2.7!important;
+    margin-right: 8px!important;
+    color: #ffffff!important;
+}
+.input-datepicker{
+  background: transparent;
+    color: #fff;
+    border: 0;
+    border-bottom: 2px solid #c8c8c7;
+    border-radius: 0!important;
+    padding: 18px 8px!important;
+    font-weight: 600!important;
+    font-size: 14px!important;
+    width: 100%;
+}
+.input-datepicker:hover,
+.input-datepicker:active,
+.input-datepicker:focus{
+  outline: none;
+}
+.react-datepicker-wrapper{
+  width: 100%;
+}

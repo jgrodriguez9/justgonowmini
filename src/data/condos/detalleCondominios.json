@@ -1,0 +1,230 @@
+{
+	"id": "1386",
+	"name": "Imperial Fiesta Club at Hotel Casa Maya                                 ",
+	"numbersPhone": [{
+		"type": "CELL",
+		"number": "998-881-0500         "
+	}],
+	"address": {
+		"addressName": "Cancun, QROO",
+		"street": "",
+		"postal": "",
+		"city": "Cancun",
+		"stateCode": "QROO",
+		"country": null,
+		"geolocation": {
+			"latitude": "21.1578",
+			"longitude": "-86.8265"
+		}
+	},
+	"source": "Vacancy",
+	"description": "Located directly on the beach, this five star hotel can easily sweep you off your feet. Surrounded by swaying palm trees, white sand and turquoise water, it's a wonderland for those seeking romance as well as families looking for an action packed adventure. Take a plunge at one of three swimming pools or grab a racquet and head to the tennis court for a friendly match. Daredevils can enjoy waterskiing or windsurfing while guests planning to stay low-key can kick back and relax with a margarita at the on-site cocktail lounge. In addition, you'll find shopping, live entertainment and a playground for the kids that are just moments away from your door.",
+	"amenities": [{
+		"name": "AIRE ACONDICIONADO",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " RENTA DE AUTOS",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " PLAYA",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " PASEO EN BARCO",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " ALFOMBRA",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " GUARDERIA INFANTIL",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " PESCA",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " GOLF",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " TIENDA DE COMESTIBLES",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " COCINA",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " LAGO",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " LAVANDERIA",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " ELEVADOR",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " ENTRETENIMIENTO EN VIVO",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " INSTALACIONES MEDICAS",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " HORNO DE MICROONDAS",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " AREA DE JUEGOS",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " RESTAURANT",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " AREA DE COMPRAS",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " SNACK BAR",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " ALBERCA",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " TELEFONO",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " TENIS",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " ESQUI ACUATICO",
+		"description": "",
+		"extraCharge": false
+	}, {
+		"name": " WINDSURFING",
+		"description": "",
+		"extraCharge": false
+	}],
+	"checking": "14:00",
+	"checkout": "11:00",
+	"chain": "",
+	"cancellationPolicy": {
+		"id": null,
+		"description": "One in Four year rule is strictly enforced.  Maximum 2      multiple/consecutive weeks allowed, except for: Christmas,  New Year, Holly Week, Easter, February, July and August.    Restrictions apply for RCI members and Imperial Fiesta Club owners.   **Violations will be cancelled**                  Restrictions are checked by name and member account.                                                                    It is mandatory and strictly enforced during spring break   season that minors under twenty one are accompanied by      adults in the same unit.                                    Additional 3% state lodging tax applies.                    **No employee reservations allowed**                                                                                    For VIP Airport-Htl-Airport Transportation please call USA  1800-2079280 &amp; MEX 01800-712-1750.                          ",
+		"daysCancellation": null,
+		"effectiveDate": null,
+		"amount": null,
+		"nonRefundable": false
+	},
+	"photos": [{
+		"url": "https://www.rci.com/static/Resorts/Assets/1386E01L.jpg",
+		"height": null,
+		"width": null,
+		"caption": null,
+		"type": null
+	}, {
+		"url": "https://www.rci.com/static/Resorts/Assets/ 1386I01L.jpg",
+		"height": null,
+		"width": null,
+		"caption": null,
+		"type": null
+	}],
+	"slugify": "",
+	"category": "",
+	"rooms": [{
+		"name": null,
+		"amenities": [],
+		"description": "Located directly on the beach, this five star hotel can easily sweep you off your feet. Surrounded by swaying palm trees, white sand and turquoise water, it's a wonderland for those seeking romance as well as families looking for an action packed adventure. Take a plunge at one of three swimming pools or grab a racquet and head to the tennis court for a friendly match. Daredevils can enjoy waterskiing or windsurfing while guests planning to stay low-key can kick back and relax with a margarita at the on-site cocktail lounge. In addition, you'll find shopping, live entertainment and a playground for the kids that are just moments away from your door.",
+		"beanRateRoomApi": [{
+			"rateKey": "/SPWvIxYormfhJXv5YMeAnb24NBRnnB4oKdTLqxT0F+j+IwhaS71FmfdZWaTXHZl",
+			"rateType": "AWT",
+			"base": 350.0,
+			"baseCurrency": null,
+			"totalBaseCurrency": null,
+			"totalPrice": null,
+			"taxPercentage": null,
+			"extraChargesAdult": null,
+			"acceptedPayment": null,
+			"effectiveDate": "06-12-2020",
+			"expireDate": "13-12-2020",
+			"cancellationPolicies": null,
+			"inclusions": "",
+			"mealPlanId": "",
+			"marketId": "",
+			"contractId": "",
+			"status": "",
+			"comments": "",
+			"promotionDTO": null,
+			"reCheck": false,
+			"changedPrice": false,
+			"availability": true,
+			"roomDescription": null
+		}],
+		"photos": [],
+		"cancellationPolicies": null,
+		"maxAdult": null,
+		"maxChild": null,
+		"maxCapacity": 2,
+		"marketId": "",
+		"contractId": "",
+		"roomType": "HOTEL",
+		"roomsNumber": 0
+	}, {
+		"name": null,
+		"amenities": [],
+		"description": "Located directly on the beach, this five star hotel can easily sweep you off your feet. Surrounded by swaying palm trees, white sand and turquoise water, it's a wonderland for those seeking romance as well as families looking for an action packed adventure. Take a plunge at one of three swimming pools or grab a racquet and head to the tennis court for a friendly match. Daredevils can enjoy waterskiing or windsurfing while guests planning to stay low-key can kick back and relax with a margarita at the on-site cocktail lounge. In addition, you'll find shopping, live entertainment and a playground for the kids that are just moments away from your door.",
+		"beanRateRoomApi": [{
+			"rateKey": "/SPWvIxYornxSbvYFvaXknb24NBRnnB4oKdTLqxT0F+j+IwhaS71FmfdZWaTXHZl",
+			"rateType": "AWT",
+			"base": 350.0,
+			"baseCurrency": null,
+			"totalBaseCurrency": null,
+			"totalPrice": null,
+			"taxPercentage": null,
+			"extraChargesAdult": null,
+			"acceptedPayment": null,
+			"effectiveDate": "13-12-2020",
+			"expireDate": "20-12-2020",
+			"cancellationPolicies": null,
+			"inclusions": "",
+			"mealPlanId": "",
+			"marketId": "",
+			"contractId": "",
+			"status": "",
+			"comments": "",
+			"promotionDTO": null,
+			"reCheck": false,
+			"changedPrice": false,
+			"availability": true,
+			"roomDescription": null
+		}],
+		"photos": [],
+		"cancellationPolicies": null,
+		"maxAdult": null,
+		"maxChild": null,
+		"maxCapacity": 2,
+		"marketId": "",
+		"contractId": "",
+		"roomType": "HOTEL",
+		"roomsNumber": 0
+	}],
+	"totalRoom": null,
+	"stars": null,
+	"beanReviews": [],
+	"beanRestaurants": []
+}
