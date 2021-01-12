@@ -87,7 +87,7 @@ function TourDetail({rates, data}) {
                                         }
                                         <Row className="justify-content-center">
                                             <Col xs="10" lg="8">
-                                            <Button block variant="primary"  className="my-3">Reservar</Button>
+                                            <Button block variant="primary"  className="my-3" onClick={e=>window.open('http://104.131.92.59:3000/', '_blank')}>Reservar</Button>
                                             <Button variant="danger" size="sm" block onClick={e=>onHandleClickPolitica(item)}>Política de cancelación</Button>     
                                             </Col>
                                         </Row>

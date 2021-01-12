@@ -15,87 +15,34 @@ function FormLogin({setIsSubmiting}){
     const { setAuthData } = useContext(authContext);
     const [error, setError] = useState('')
 
-    const shema = Yup.object().shape({
-        username: Yup.string()
-            .email("Correo electrónico inválido")
-            .required('Campo Requerido'),
-        password: Yup.string()
-            .required('Campo Requerido'),
-    });
-
     return(
         <>
             <Formik 
-                initialValues={{username:'' ,password: ''}}
-                validationSchema={shema}
+                initialValues={{username:'demo' ,password: 'demo'}}
                 onSubmit={(values, { setSubmitting,setFieldValue }) => { 
                     setIsSubmiting(true)
                     setSubmitting(true)
                     //console.log(values)
-                    const endpoint = `${process.env.REACT_APP_URL_LOGIN}?app=${process.env.REACT_APP_APPNAME_LOGIN}&key=${process.env.REACT_APP_APPKEY_LOGIN}`                    
-                    axios({
-                        method: 'post',
-                        url: endpoint,
-                        data: qs.stringify({
-                            username: values.username,
-                            password: values.password,
-                            includeMemberships: '1',
-                            includePermissions: '1'
-                        }),
-                        headers: { 
-                            "Access-Control-Allow-Headers" : "Content-Type",
-                            "Accept": "application/json",
-                            'Content-Type': 'application/x-www-form-urlencoded', 
-                            "Access-Control-Allow-Origin": "*",
-                            'Access-Control-Allow-Methods' : 'GET,PUT,POST,DELETE,PATCH,OPTIONS'
-                        }
-                      })
-                      .then(response=>{
-                        console.log(response)
-
-                        if(response.data.success){
-                            if(response.data.memberships.filter(item=>item.permissions.justGoNow===0).length > 0){
-                                let dataStorage = {
-                                    membership: response.data.memberships
-                                }
-                                //buscamos el token para las peticiones con SunApi
-                                const urlLogin = `${process.env.REACT_APP_SUNAPI_ENDPOINT}${LOGIN_SUNAPI}`;
-                                const d = {
-                                    username: process.env.REACT_APP_SUNAPI_APIUSER,
-                                    password: process.env.REACT_APP_SUNAPI_APIKEY
-                                }
-                                Post({url: urlLogin, data: d, header: false})
-                                .then(resp=>{
-                                    setIsSubmiting(false)
-                                    setSubmitting(false)  
-                                    dataStorage['access_token'] = resp.data.Bearer
-                                    setAuthData(dataStorage)
-                                    history.replace('/')
-                                })
-                                .catch(error=>{
-                                    console.log(error)
-                                    setIsSubmiting(false)
-                                    setSubmitting(false) 
-                                })
-                            }else{
-                                setError("NA")
-                                setIsSubmiting(false)
-                                setSubmitting(false) 
-                            }
-                            
-                        }else{
-                            setIsSubmiting(false)
-                            setSubmitting(false)
-                            setError(response.data.errorCode)
-                        }                     
-                      })
-                      .catch(error=>{
-                            console.log(error)
-                            console.log(error.response)
-                            setIsSubmiting(false)
-                            setSubmitting(false)
-                            setError(error.response.status)
-                      });
+                    const urlLogin = `${process.env.REACT_APP_SUNAPI_ENDPOINT}${LOGIN_SUNAPI}`;
+                    const d = {
+                        username: process.env.REACT_APP_SUNAPI_APIUSER,
+                        password: process.env.REACT_APP_SUNAPI_APIKEY
+                    }
+                    Post({url: urlLogin, data: d, header: false})
+                    .then(resp=>{
+                        setIsSubmiting(false)
+                        setSubmitting(false)   
+                        let d = {
+                            access_token: resp.data.Bearer
+                        }                       
+                        setAuthData(d)
+                        history.replace('/')
+                    })
+                    .catch(error=>{
+                        console.log(error)
+                        setIsSubmiting(false)
+                        setSubmitting(false) 
+                    })
                 }}
             >{({
                 values,
@@ -114,22 +61,10 @@ function FormLogin({setIsSubmiting}){
                         </span>
                     </div>
                     <div className="form-group mb-3">
-                        <Field 
-                            className={`${errors.username && 'error'} form-control form-control-sm`}
-                            name="username" 
-                            type="email"
-                            placeholder="Correo electrónico" 
-                        />
-                        { errors.username && <div className="invalid-feedback d-block">{errors.username}</div> }
+                        <div className="form-control form-control-sm">{values.username}</div>
                     </div>
                     <div className="form-group mb-3">
-                        <Field 
-                            className={`${errors.password && 'error'} form-control form-control-sm`}
-                            name="password" 
-                            type="password"
-                            placeholder="Contraseña" 
-                        />
-                        { errors.password && <div className="invalid-feedback d-block">{errors.password}</div> }
+                        <div className="form-control form-control-sm">{values.password}</div>
                     </div>   
                     <div>
                         <Button type="submit" disabled={isSubmitting} variant="primary" block className="btn-purple text-uppercase">

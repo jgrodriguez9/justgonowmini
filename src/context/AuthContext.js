@@ -12,11 +12,11 @@ const AuthProvider = ({ children }) => {
     };
     
     useEffect(() => {
-      setAuth({ loading: false, data: JSON.parse(window.localStorage.getItem('authJustGoNow'))});
+      setAuth({ loading: false, data: JSON.parse(window.localStorage.getItem('authJustGoNowMini'))});
     }, []);
 
     useEffect(() => {
-      window.localStorage.setItem('authJustGoNow', JSON.stringify(auth.data));
+      window.localStorage.setItem('authJustGoNowMini', JSON.stringify(auth.data));
     }, [auth.data]);
   
     return (

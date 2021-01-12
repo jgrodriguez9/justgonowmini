@@ -20,9 +20,9 @@ httpInstance.interceptors.response.use((response)=>{
         return axios.post(urlLogin, d)
                     .then(response=>{
                         //console.log(response)
-                        let storage = JSON.parse(localStorage.getItem("authJustGoNow"));
+                        let storage = JSON.parse(localStorage.getItem("authJustGoNowMini"));
                         storage.access_token = response.data.Bearer
-                        localStorage.setItem("authJustGoNow", JSON.stringify(storage));
+                        localStorage.setItem("authJustGoNowMini", JSON.stringify(storage));
                         originalRequest.headers['Authorization'] = 'Bearer ' + response.data.Bearer;
                         return axios(originalRequest);
                     })           
@@ -41,9 +41,9 @@ httpInstance.interceptors.response.use((response)=>{
         return axios.post(urlLogin, d, h)
                     .then(response=>{
                         console.log(response)
-                        let storage = JSON.parse(localStorage.getItem("authJustGoNow"));
+                        let storage = JSON.parse(localStorage.getItem("authJustGoNowMini"));
                         storage.access_token = response.data.Bearer
-                        localStorage.setItem("authJustGoNow", JSON.stringify(storage));
+                        localStorage.setItem("authJustGoNowMini", JSON.stringify(storage));
                         originalRequest.headers['Authorization'] = 'Bearer ' + response.data.Bearer;
                         return axios(originalRequest);
                     })           

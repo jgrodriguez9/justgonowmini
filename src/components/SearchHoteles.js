@@ -28,6 +28,7 @@ function SearchHoteles({t, i18n}){
             "ages": []
       }
     }])
+    console.log(auth)
     const history = useHistory();
 
     const onFocusChangeRangeHandler = (focusedInput) => {

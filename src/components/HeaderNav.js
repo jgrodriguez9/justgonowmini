@@ -15,7 +15,6 @@ function HeaderNav({t, i18n}){
 
     const logout = e =>{
         setAuthData(null);
-        window.localStorage.clear();
     }
 
     useEffect(()=>{
@@ -50,11 +49,11 @@ function HeaderNav({t, i18n}){
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav className="ml-auto nav-header">
                     <NavLink to="/" activeClassName="active" className="nav-link" exact>{t('Inicio')}</NavLink>
-                    <NavLink to="/flight" activeClassName="active" className="nav-link" exact>{t('Vuelos')}</NavLink>
+                    {/* <NavLink to="/flight" activeClassName="active" className="nav-link" exact>{t('Vuelos')}</NavLink> */}
                     <NavLink to="/condos" activeClassName="active" className="nav-link" exact>{t('Condominios')}</NavLink>
                     <NavLink to="/hotel" activeClassName="active" className="nav-link" exact>{t('Hoteles')}</NavLink>
                     <NavLink to="/experience" activeClassName="active" className="nav-link" exact>{t('Experiencias')}</NavLink>
-                    <NavLink to="/car" activeClassName="active" className="nav-link" exact>{t('Autos')}</NavLink>
+                    {/* <NavLink to="/car" activeClassName="active" className="nav-link" exact>{t('Autos')}</NavLink> */}
                 <NavDropdown title={<FaUser />}>
                     <NavDropdown.Item eventKey="1" onClick={logout} className="p-regular-a">{t('CerrarSesion')}</NavDropdown.Item>
                 </NavDropdown>

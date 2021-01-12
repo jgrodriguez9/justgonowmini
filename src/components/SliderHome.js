@@ -71,9 +71,9 @@ function SliderHome({t}){
         </div>            
           <div className="box-search">
             <Tabs defaultActiveKey="hoteles" className="justify-content-center" transition={false}>
-                <Tab eventKey="vuelos" title={t('Vuelos')}>
+                {/* <Tab eventKey="vuelos" title={t('Vuelos')}>
                     <SearchVuelos />
-                </Tab>
+                </Tab> */}
                 <Tab eventKey="condominios" title={t('Condominios')}>
                     <SearchCondominios/>
                 </Tab>
@@ -83,9 +83,9 @@ function SliderHome({t}){
                 <Tab eventKey="experiencias" title={t('Experiencias')}>
                     <SearchExperiencias />
                 </Tab>
-                <Tab eventKey="autos" title={t('Autos')}>
+                {/* <Tab eventKey="autos" title={t('Autos')}>
                     <SearchAutos />
-                </Tab>
+                </Tab> */}
             </Tabs>
           </div>     
         </div> 

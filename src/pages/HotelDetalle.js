@@ -56,7 +56,7 @@ function HotelDetalle({t, i18n}){
         const urlHotelList = `${process.env.REACT_APP_SUNAPI_ENDPOINT_VERSION}${HOTEL_DETAIL}?sources=${process.env.REACT_APP_SUNAPI_APINAMEHOTEL}`
         Post({url: urlHotelList, data: data, access_token: auth.data.access_token, header: true})
         .then(response=>{
-            console.log(response)
+            //console.log(response)
             if(response.data===""){
                 setEmptyData(true)
             }else{
@@ -130,41 +130,44 @@ function HotelDetalle({t, i18n}){
     }
 
     const onHandleClickReservar = rate =>{
+        window.open('http://104.131.92.59:3000/', '_blank')
+
+
         //console.log('reservar')
         //console.log(data)
         //console.log(item)
         //console.log(rate)
 
-        const d = {
-            apiName: data.apiName,
-            checkIn: item.checking,
-            checkOut: item.checkout,
-            destino_id: data.destiny,
-            destino_name: data.destino_name,
-            hotel_id: item.id,
-            hotel_name: item.name,
-            hotel_photos: item.photos,
-            stars: item.stars,
-            direccion: item.address.addressName,
-            habitacion_name: rate.identificador,
-            habitacion_id: rate.rateKey,
-            total: rate.amountDetail.total,
-            mealPlan: rate.mealPlan,
-            rooms: rate.roomDescription,
-            huespedes: calcTotalHuespedes(data.rooms, "adult")+calcTotalHuespedes(data.rooms, "child"),
-            huespedes_adults: calcTotalHuespedes(data.rooms, "adult"),
-            huespedes_children: calcTotalHuespedes(data.rooms, "child")
-        }
-        console.log("data a resrvar")
-        console.log(d)
-        let cacheKey = `${d.hotel_id}${d.destino_id}${d.habitacion_id}${d.checkIn}${d.checkOut}${d.total}` 
-        let cacheValue = JSON.stringify(d) 
-        //salvo en el localStorage para reservar
-        //console.log(window.localStorage.getItem(cacheKey))
-        if(window.localStorage.getItem(cacheKey) === null){
-            window.localStorage.setItem(cacheKey, cacheValue)
-        }
-        history.push(`/hotel/reservation?search=${encodeURIComponent(cacheKey)}`)
+        // const d = {
+        //     apiName: data.apiName,
+        //     checkIn: item.checking,
+        //     checkOut: item.checkout,
+        //     destino_id: data.destiny,
+        //     destino_name: data.destino_name,
+        //     hotel_id: item.id,
+        //     hotel_name: item.name,
+        //     hotel_photos: item.photos,
+        //     stars: item.stars,
+        //     direccion: item.address.addressName,
+        //     habitacion_name: rate.identificador,
+        //     habitacion_id: rate.rateKey,
+        //     total: rate.amountDetail.total,
+        //     mealPlan: rate.mealPlan,
+        //     rooms: rate.roomDescription,
+        //     huespedes: calcTotalHuespedes(data.rooms, "adult")+calcTotalHuespedes(data.rooms, "child"),
+        //     huespedes_adults: calcTotalHuespedes(data.rooms, "adult"),
+        //     huespedes_children: calcTotalHuespedes(data.rooms, "child")
+        // }
+        // console.log("data a resrvar")
+        // console.log(d)
+        // let cacheKey = `${d.hotel_id}${d.destino_id}${d.habitacion_id}${d.checkIn}${d.checkOut}${d.total}` 
+        // let cacheValue = JSON.stringify(d) 
+        // //salvo en el localStorage para reservar
+        // //console.log(window.localStorage.getItem(cacheKey))
+        // if(window.localStorage.getItem(cacheKey) === null){
+        //     window.localStorage.setItem(cacheKey, cacheValue)
+        // }
+        // history.push(`/hotel/reservation?search=${encodeURIComponent(cacheKey)}`)
         
     }
 
